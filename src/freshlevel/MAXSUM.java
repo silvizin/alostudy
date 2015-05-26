@@ -34,6 +34,7 @@ public class MAXSUM {
 		{
 			if(numb[i]>0){
 				
+				
 				rnumb+=numb[i];
 			}
 			
